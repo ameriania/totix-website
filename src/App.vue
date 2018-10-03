@@ -1,17 +1,18 @@
 <template>
   <div id="app">
-    <img width="25%" src="./assets/logo.png">
-    <HelloWorld/>
+    <!-- <img width="25%" src="./assets/logo.png">
+    <HelloWorld/> -->
+    vue page
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
+// import HelloWorld from "./components/HelloWorld";
 
 export default {
   name: "App",
   components: {
-    HelloWorld
+    // HelloWorld
   }
 };
 </script>
