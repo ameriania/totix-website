@@ -1,4 +1,4 @@
-# test-project
+# totix-website
 
 > A Vue.js project
 
